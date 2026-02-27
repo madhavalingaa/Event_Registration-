@@ -31,12 +31,20 @@ A zero-friction, visually stunning event registration portal that maximizes conv
 *The glassmorphism-inspired registration form where users input their details.*
 
 ### 2. Success Confirmation (`/success`)
-![Success Page](asset/success.png)
+![Success Page](asset/Confirmation.png)
 *Instant visual feedback after a successful registration.*
 
 ### 3. Organizer Dashboard (`/participants`)
 ![Organizer Dashboard](asset/dashboard.png)
 *The backend view for event organizers to see all registered participants.*
+
+### 4. Admin View
+![Admin View](asset/Adminview.png)
+*The administrative view for extended control over the event data.*
+
+### 5. Sample View
+![Sample View](asset/Sample.png)
+*A sample overview illustrating further capabilities of the application.*
 
 ## ⚙️ Getting Started
 
